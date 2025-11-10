@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Booster Pro",
+  "description": "An application that allows users to upload a low-quality or blurry video, enhance it to 4K quality using AI-based super-resolution, and download the processed result.",
+  "requestFramePermissions": []
+}
